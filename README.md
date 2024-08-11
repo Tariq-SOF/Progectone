@@ -1,6 +1,6 @@
 # My projects
 
-To access the website, click on the following: [website](books-website-kappa.vercel.app)
+To access the website, click on the following: [website](https://books-website-kappa.vercel.app/)
 
 ## License
 
