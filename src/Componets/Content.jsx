@@ -49,7 +49,8 @@ function Content() {
 
  <div className="w-full h-[30vh] flex flex-col ">
         <h1 className="font-bold m-6 text-3xl text-center ">Wolcom</h1>
-        <h3 className="font-bold leading-2.5 text-center text-xl" >"Discover our incredible online libraries<br/>Expand your knowledge and enrich your life. Start exploring today!"</h3>
+        <h3 className="font-bold leading-2.5 text-center text-xl" >"Discover our incredible online libraries<br/>Expand your knowledge and enrich your life. Start exploring today!"<br/>
+       <samp className="font-sans font-medium text-sm "> Please login to continue</samp> </h3>
     </div>
 
 
